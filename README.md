@@ -8,9 +8,9 @@
 - **KyuHwon Park, Young-Seob Jeong, *"Indoor Dialog Agent in Mixed Reality,"* in Proceedings of the 17th Annual International Conference on Mobile Systems, Application, and Services (Mobisys), Seoul, South Korea, pp.708-709, June 17-21, 2019. (presentation: June 18) [ACK: NRF2017, SCH]** [[Github](https://github.com/svclaw2000/Phoenix-Bot)] [[Video](https://www.youtube.com/watch?v=U2FA-XxVPvM)]
 
 ## 🏅 Awards
-- **순천향대학교 SCH미디어랩스 학술제 *[창의융합 프로덕트 엑스포]* 대상**  
+- **순천향대학교 SCH미디어랩스 *[창의융합 프로덕트 엑스포]* 대상**  
 - **순천향대학교 빅데이터공학과 *[제 4회 빅데이터 분석 및 개발 경진대회]* 최우수상**  
-- **(사)소프트웨어교육혁신센터 주관 *[제8회 K-해커톤 실감콘텐츠 앱 개발 챌린지]* 우수상**  
+- **(사)소프트웨어교육혁신센터 *[제8회 K-해커톤 실감콘텐츠 앱 개발 챌린지]* 우수상**  
 - **순천향대학교 빅데이터공학과 *[제 3회 빅데이터 분석 및 개발 경진대회]* 대상**  
 - **순천향대학교 빅데이터공학과 *[제 2회 빅데이터 분석 및 개발 경진대회]* 우수상**  
 
