@@ -1,5 +1,6 @@
-## 👋 Hi, I am developer Keich.Park!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvclaw2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 Hi, I am developer Keich.Park! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvclaw2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Keich.Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=svclaw2000&count_private=true&show_icons=true&theme=flag-india&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svclaw2000&layout=compact) -->
 
 ## 📜 Publications
 - **KyuHwon Park and Young-Seob Jeong, *"Step Detection When Users Vertically Hold Smartphones,"* in Proceedings of the 15th Asia Pacific International Conference on Information Science and Technology (APIC-IST), Seoul, South Korea, pp. 1-3, July 5-7, 2020. [ACK: SCH, NRF2020]** [[Github](https://github.com/svclaw2000/StepDetector)]
