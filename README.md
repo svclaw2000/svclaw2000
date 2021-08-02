@@ -9,7 +9,7 @@
 - **KyuHwon Park and Young-Seob Jeong, *"Step Detection When Users Vertically Hold Smartphones,"* in Proceedings of the 15th Asia Pacific International Conference on Information Science and Technology (APIC-IST), Seoul, South Korea, pp. 1-3, July 5-7, 2020.** [[Github](https://github.com/svclaw2000/StepDetector)]
 - **김다혜, 박규훤, 정영섭, *"현실 세계를 제어하는 혼합 현실 대화 시스템,"* 제31회 한글 및 한국어 정보처리 학술대회 논문집, October 11~12, 2019. (presentation: October 12)** [[Github](https://github.com/svclaw2000/Phoenix-Bot)] [[Video](https://www.youtube.com/watch?v=nNpo-6WtzOo)]
 - **KyuHwon Park, Young-Seob Jeong, *"Indoor Dialog Agent in Mixed Reality,"* in Proceedings of the 17th Annual International Conference on Mobile Systems, Application, and Services (Mobisys), Seoul, South Korea, pp.708-709, June 17-21, 2019. (presentation: June 18)** [[Github](https://github.com/svclaw2000/Phoenix-Bot)] [[Video](https://www.youtube.com/watch?v=U2FA-XxVPvM)]
-- **박규훤, 정영섭, *"KoBERT를 사용한 한국어 일상 주제 분류,"* 한국정보과학회 학술발표논문집, pp.1735-1737, 2021** [[Github](https://github.com/svclaw2000/Dialog-Classification-Using-KoBERT/)]
+- **박규훤, 정영섭, *"KoBERT를 사용한 한국어 일상 주제 분류,"* 2021 한국컴퓨터종합학술대회 (KCC2021) 논문집, pp.1735-1737, June 23-25, 2021.** [[Github](https://github.com/svclaw2000/Dialog-Classification-Using-KoBERT/)]
 
 ## 🏅 Awards
 - **순천향대학교 SCH미디어랩스 *[창의융합 프로덕트 엑스포]* 대상**  
