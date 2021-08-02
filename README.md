@@ -12,6 +12,7 @@
 - **박규훤, 정영섭, *"KoBERT를 사용한 한국어 일상 주제 분류,"* 2021 한국컴퓨터종합학술대회 (KCC2021) 논문집, pp.1735-1737, June 23-25, 2021.** [[Github](https://github.com/svclaw2000/Dialog-Classification-Using-KoBERT/)]
 
 ## 🏅 Awards
+- **Google Developer Student Clubs Korea *[2021 DSC KR Solution Challenge Hackathon]* Top 10**  
 - **순천향대학교 SCH미디어랩스 *[창의융합 프로덕트 엑스포]* 대상**  
 - **순천향대학교 빅데이터공학과 *[제 4회 빅데이터 분석 및 개발 경진대회]* 최우수상**  
 - **(사)소프트웨어교육혁신센터 *[제 8회 K-해커톤 실감콘텐츠 앱 개발 챌린지]* 우수상**  
