@@ -5,6 +5,20 @@
 [![Keich.Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=svclaw2000&count_private=true&show_icons=true&theme=flag-india&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svclaw2000&layout=compact) -->
 
+## 🏙 Experience
+### ANT Lab
+> **Undergraduate Researcher** (2019.03 ~ 2021.01)
+- Android application development
+- ML/DL engineering
+### (주)에프에스
+> **Intern** (2021.02 ~ 2021.06)  
+> **Development Team - Researcher** (2021.07 ~ )
+- Bigdata analytics support
+- Webpage(Tomcat) development
+- Search engine(ELK) development
+### 부스트캠프 웹모바일 6기 챌린지
+> **Completion** (2021.07.19 ~ 2021.08.13)
+
 ## 📜 Publications
 - **KyuHwon Park and Young-Seob Jeong, *"Step Detection When Users Vertically Hold Smartphones,"* in Proceedings of the 15th Asia Pacific International Conference on Information Science and Technology (APIC-IST), Seoul, South Korea, pp. 1-3, July 5-7, 2020.** [[Github](https://github.com/svclaw2000/StepDetector)]
 - **김다혜, 박규훤, 정영섭, *"현실 세계를 제어하는 혼합 현실 대화 시스템,"* 제31회 한글 및 한국어 정보처리 학술대회 논문집, October 11~12, 2019. (presentation: October 12)** [[Github](https://github.com/svclaw2000/Phoenix-Bot)] [[Video](https://www.youtube.com/watch?v=nNpo-6WtzOo)]
