@@ -14,7 +14,7 @@
 - ML/DL engineering
 ### (주)에프에스
 > **Intern** (2021.02 ~ 2021.06)  
-> **Development Team - Researcher** (2021.07 ~ )
+> **Development Team - Researcher** (2021.07 ~ 2021.09)
 - Bigdata analytics support
 - Webpage(Tomcat) development
 - Search engine(ELK) development
