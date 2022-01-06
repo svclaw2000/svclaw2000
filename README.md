@@ -8,18 +8,19 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svclaw2000&layout=compact) -->
 
 ## 🏙 Experience
-### ANT Lab
-> **Undergraduate Researcher** (2019.03 ~ 2021.01)
-- Android application development
-- ML/DL engineering
+### 부스트캠프 웹모바일 6기
+> **Challenge** (2021.07 ~ 2021.08)
+> **Membership** (2021.08 ~ 2021.12)
 ### (주)에프에스
 > **Intern** (2021.02 ~ 2021.06)  
 > **Development Team - Researcher** (2021.07 ~ 2021.09)
 - Bigdata analytics support
 - Webpage(Tomcat) development
 - Search engine(ELK) development
-### 부스트캠프 웹모바일 6기 챌린지
-> **Completion** (2021.07.19 ~ 2021.08.13)
+### ANT Lab
+> **Undergraduate Researcher** (2019.03 ~ 2021.01)
+- Android application development
+- ML/DL engineering
 
 ## 📜 Publications
 - **박규훤, 정영섭, *"KoBERT를 사용한 한국어 일상 주제 분류,"* 2021 한국컴퓨터종합학술대회 (KCC2021) 논문집, pp.1735-1737, June 23-25, 2021.** [[Github](https://github.com/svclaw2000/Dialog-Classification-Using-KoBERT/)]
