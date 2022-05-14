@@ -8,7 +8,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svclaw2000&layout=compact) -->
 
 ## 🏙 Experience
-### 전능아이티
+### 전능아이티(주)
 > **Development Team - Researcher** (2022.05 ~ now)
 ### 부스트캠프 웹모바일 6기
 > **Challenge** (2021.07 ~ 2021.08)  
