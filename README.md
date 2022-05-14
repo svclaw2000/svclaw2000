@@ -8,8 +8,10 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svclaw2000&layout=compact) -->
 
 ## 🏙 Experience
+### 전능아이티
+> **Development Team - Researcher** (2022.05 ~ now)
 ### 부스트캠프 웹모바일 6기
-> **Challenge** (2021.07 ~ 2021.08)
+> **Challenge** (2021.07 ~ 2021.08)  
 > **Membership** (2021.08 ~ 2021.12)
 ### (주)에프에스
 > **Intern** (2021.02 ~ 2021.06)  
