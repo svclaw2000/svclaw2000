@@ -8,17 +8,21 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svclaw2000&layout=compact) -->
 
 ## 🏙 Experience
-### 전능아이티(주)
-> **Development Team - Researcher** (2022.05 ~ now)
+### SMART DOCTOR - 전능아이티(주)
+> **2nd Development Team - Android Developer(Researcher)** (2022.05 ~ now)
+- [스마트 차트](https://smartdoctor.cc/?mir_code=13181) 태블릿 어플 기능 개발 및 유지 보수
+
 ### 부스트캠프 웹모바일 6기
 > **Challenge** (2021.07 ~ 2021.08)  
 > **Membership** (2021.08 ~ 2021.12)
+
 ### (주)에프에스
 > **Intern** (2021.02 ~ 2021.06)  
 > **Development Team - Researcher** (2021.07 ~ 2021.09)
 - Bigdata analytics support
 - Webpage(Tomcat) development
 - Search engine(ELK) development
+
 ### ANT Lab
 > **Undergraduate Researcher** (2019.03 ~ 2021.01)
 - Android application development
