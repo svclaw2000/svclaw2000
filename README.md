@@ -10,8 +10,8 @@
 ## 🏙 Experience
 
 ### 토스 - (주)비바리퍼블리카
-> **Client Platform Team - Android Developer** (2022.09 ~ now)
-- 토스 어플 기능 개발 외 유지 보수
+> **Home Platform Team - Android Developer** (2022.09 ~ now)
+- 토스 홈 화면 개발 및 유지 보수
 
 ### SMART DOCTOR - 전능아이티(주)
 > **2nd Development Team - Android Developer(Researcher)** (2022.05 ~ 2022.09)
