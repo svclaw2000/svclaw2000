@@ -10,7 +10,8 @@
 ## 🏙 Experience
 
 ### 토스 - (주)비바리퍼블리카
-> **Home Platform Team - Android Developer** (2022.09 ~ now)
+> **Navigation - Server Developer** (2025.02 ~ ing)
+> **Home Tribe - Android Developer** (2022.09 ~ 2025.02)
 - 토스 홈 화면 개발 및 유지 보수
 
 ### SMART DOCTOR - 전능아이티(주)
