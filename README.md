@@ -1,4 +1,4 @@
-## 👋 Hi, I am developer Keich.Park! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvclaw2000&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 Hi, I am developer Keich.Park!
 
 <!-- <a href="https://svclaw2000.github.io">
   <img src="https://img.shields.io/badge/-Personal_Homepage-blue">
@@ -10,9 +10,13 @@
 ## 🏙 Experience
 
 ### 토스 - (주)비바리퍼블리카
-> **Navigation Team - Server Developer** (2025.02 ~ now)  
+> **HomeInsights Team - Server Developer** (2025.07 ~ now)
+- 글로벌 홈 개발
+> **AppsInToss Growth Team - Server Developer** (2025.02 ~ 2025.07)
+- 앱인토스 앱 내 노출 시스템 개발
+- 앱인토스 게임센터 개발
 > **Home Tribe - Android Developer** (2022.09 ~ 2025.02)
-- 토스 홈 화면 개발 및 유지 보수
+- 토스 홈 화면 개발
 
 ### SMART DOCTOR - 전능아이티(주)
 > **2nd Development Team - Android Developer(Researcher)** (2022.05 ~ 2022.09)
